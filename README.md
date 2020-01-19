@@ -5,7 +5,7 @@
 Ceci est un mini mini outil pour faire des sites php rapidement.
 
 Il contient quelques notions de "l'architecture MVC".
-+ Le routeur, un simple fichier regroupant les URL possible dans le projet
++ Le routeur, un simple fichier regroupant les URL possible dans votre site
 + Les contrôleurs, qui sont des fonctions exécutés en fonction de l'URL
 + La vue, qui sont des fichiers html/php appellés généralement à la fin d'un contrôleur
 + La base de données, que l'on peut utiliser à l'aide de la fonction get_connexion_to_database() (pensez à la paramétrer)
