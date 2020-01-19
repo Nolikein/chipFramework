@@ -1,3 +1,5 @@
+# chipFramework
+
 Ceci est un mini mini outil pour faire des sites php rapidement.
 
 Il contient quelques notions de "l'architecture MVC".
